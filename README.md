@@ -17,7 +17,7 @@
 ----
 
 ### **Convenient usage:**
-- activate popup by pressing: Left CTRL + Left ALT
+- activate popup by pressing: Left CTRL + Left ALT *(Obviously easily changable to suit, but found personally it doesn't popup too often when not needed, and is quickly activated when programming)*
   
 ### **Popup auto disappears:**
 - after you choose a selection
